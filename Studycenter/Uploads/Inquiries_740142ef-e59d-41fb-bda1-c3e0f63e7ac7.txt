@@ -1,0 +1,19 @@
+- course deletion issue
+- the edit needed in grading system after implement the quiz 
+- certificate of completion: where should I create it? in calculate grade it should generate a certificate of completion if he is pass.  
+- maybe there is no need for calculate average grade, the average method could be called as delegate
+ in adding grade in student assignment model. 
+- check quiz routes 
+- Grade page
+
+
+- routes to test:  
+-- calculate the average grade 
+ 
+
+
+- for alzoubi 
+-- Teacher buton for calculate avergae; does it check if the due date pass before continue in the 
+process? (it should be)
+
+-- check on routes, look which one need to return the Id and if anything messing

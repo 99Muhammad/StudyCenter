@@ -1,0 +1,15 @@
+Things to update in teacher dashboard:
+
+1. post grade + feedback in assignment for not submitted student. 
+2. update assignment. 
+3. quiz submission. >> I think you can get them form QuizResult table. 
+4. Lecture Attendance. (get lectures, get absence rate (route exist),post attendance (route exist)). 
+5. change alert to snack bar. 
+7. show errors in the snack bar if there is any. 
+8. update quiz. >> CRUD on question is not working. 
+9. link schedule. >> the current courses route. 
+10. link Admin announcment >> get announcement for teacher. 
+11. the grade for the submitted assignment. >> check if download the file is working and if the grade + feedback is added. 
+12. update MyCourses to get the completed courses only. 
+13. link the logout with the logout icon. 
+

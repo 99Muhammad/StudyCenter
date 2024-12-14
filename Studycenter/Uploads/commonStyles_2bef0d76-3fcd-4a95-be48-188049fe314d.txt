@@ -1,0 +1,28 @@
+padding:
+main content screen: p-6
+my courses: p-6
+attendance: p-4 
+course card: p-2 
+
+in course details: m-10
+card width: 700px
+
+spacing: 
+btw courses card: space-y-8
+btw title and calendar: space-y-6
+btw toggle button and body: space-y-8
+
+table + calendar header:font-size: 1.25rem text-xl, font-weight: 700 font-bold
+table row: color: meduim, size: lg, 
+
+nutton with long text: py-3
+
+text-size:
+course name: text-4xl
+course details heading: text-3xl
+course card: text-3xl
+assignment card: text-2xl
+
+space in card: 
+divider: my-4
+btw title and content: space-y-2

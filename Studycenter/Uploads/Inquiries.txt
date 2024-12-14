@@ -1,0 +1,32 @@
+- get assignment from student side, should view the visible one only
+- the edit needed in grading system after implement the quiz 
+- remove level.
+- certificate of completion: where should I create it? in calculate grade it should generate a certificate of completion if he is pass.  
+- maybe there is no need for calculate average grade, the average method could be called as delegate
+ in adding grade in student assignment model. 
+- Grade page
+- report 
+
+
+
+- routes to test:  
+-- calculate the average grade 
+-- check if delete assignment >> delete the student assignment record 
+-- report 
+
+
+- for alzoubi 
+-- Teacher buton for calculate avergae; does it check if the due date pass before continue in the 
+process? (it should be)
+
+
+
+ 
+- for dima 
+-- edit the date time to >> date time offset 
+-- check if any other route is needed in report 
+-- determine grade page routes
+
+- for alfarwan 
+-- delete student assignment
+-- add upload file in the assignments
